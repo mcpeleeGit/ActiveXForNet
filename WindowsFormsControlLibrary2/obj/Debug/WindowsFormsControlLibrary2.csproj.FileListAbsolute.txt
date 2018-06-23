@@ -1,0 +1,8 @@
+c:\users\mcpel\Source\Repos\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.dll
+c:\users\mcpel\Source\Repos\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.pdb
+c:\users\mcpel\Source\Repos\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.UserControl1.resources
+c:\users\mcpel\Source\Repos\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csproj.GenerateResource.cache
+c:\users\mcpel\Source\Repos\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csproj.CoreCompileInputs.cache
+c:\users\mcpel\Source\Repos\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.dll
+c:\users\mcpel\Source\Repos\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.pdb
+C:\Users\mcpel\Source\Repos\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.tlb
